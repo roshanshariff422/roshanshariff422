@@ -1,233 +1,157 @@
-<!-- ===================================================== -->
-<!-- MOHAMMED ROSHAN SHARIEFF | GITHUB PROFILE README      -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img src="assets/roshan-hero.svg" width="100%" alt="Mohammed Roshan Sharieff - Developer Profile"/>
+<img src="assets/roshan-hero.gif" width="100%" alt="Animated banner — Mohammed Roshan Sharieff">
 
-<br/>
+<br>
 
-<p>
-  <a href="https://github.com/roshanshariff422">
-    <img src="https://img.shields.io/badge/GitHub-roshanshariff422-451126?style=for-the-badge&logo=github&logoColor=F8F0F3"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohammed-roshan-sharieff-031b78292/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/mohammed-roshan-sharieff-031b78292/">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn">
+</a>
+<a href="https://github.com/roshanshariff422">
+  <img src="https://img.shields.io/badge/GITHUB-Explore%20my%20work-451126?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub">
+</a>
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-701A3D?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Interest-AI%20%26%20ML-C77B9B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Specialization-Computer%20Vision-451126?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Full--Stack-Development-701A3D?style=flat-square">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Interest-C77B9B?style=flat-square">
+  <img src="https://img.shields.io/badge/Computer%20Vision-Focus-451126?style=flat-square">
 </p>
 
 </div>
 
 ---
 
-## ABOUT ME
+## 01 / ABOUT
 
-Hello! I'm **Mohammed Roshan Sharieff**, an Information Science and Engineering student and developer passionate about building practical software solutions.
+I'm **Mohammed Roshan Sharieff**, an Information Science & Engineering student at The Oxford College of Engineering.
 
-I enjoy exploring the intersection of full-stack development, artificial intelligence, machine learning, and computer vision.
+I enjoy building software, exploring artificial intelligence, and connecting software with real-world applications. My current interests include full-stack web development, computer vision, machine learning, and embedded hardware integration.
 
-My interests include:
-
-- Developing full-stack web applications.
-- Building intelligent applications using AI and Machine Learning.
-- Exploring Computer Vision and deep learning.
-- Integrating software with embedded hardware.
-- Learning new technologies and solving real-world problems.
-
-I'm continuously working on improving my technical skills through projects, experimentation, and collaboration.
+- 🎓 B.E. in Information Science & Engineering — expected 2027
+- 🧠 Exploring AI, machine learning, and computer vision
+- 💻 Building web applications and practical software projects
+- 🤝 Interested in collaboration, learning, and problem-solving
 
 ---
 
-## EDUCATION
+## 02 / TECHNOLOGY
 
-**Bachelor of Engineering — Information Science & Engineering**
-
-The Oxford College of Engineering  
-Visvesvaraya Technological University (VTU)
-
-| Academic Detail | Information |
-|:---|:---|
-| Degree | B.E. |
-| Specialization | Information Science & Engineering |
-| Institution | The Oxford College of Engineering |
-| University | VTU |
-| Expected Graduation | 2027 |
-| CGPA | 8.65 / 10 |
-
----
-
-## TECHNICAL SKILLS
-
-### Programming Languages
+**Languages**
 
 <p>
-<img src="https://img.shields.io/badge/Java-451126?style=for-the-badge&logo=openjdk&logoColor=F8F0F3"/>
-<img src="https://img.shields.io/badge/JavaScript-451126?style=for-the-badge&logo=javascript&logoColor=F8F0F3"/>
-<img src="https://img.shields.io/badge/Python-451126?style=for-the-badge&logo=python&logoColor=F8F0F3"/>
+  <img src="https://img.shields.io/badge/Java-181018?style=for-the-badge&logo=openjdk&logoColor=E5B5C7">
+  <img src="https://img.shields.io/badge/JavaScript-181018?style=for-the-badge&logo=javascript&logoColor=E5B5C7">
+  <img src="https://img.shields.io/badge/Python-181018?style=for-the-badge&logo=python&logoColor=E5B5C7">
 </p>
 
-### Frontend Development
+**Frontend & Backend**
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-701A3D?style=for-the-badge&logo=html5&logoColor=F8F0F3"/>
-<img src="https://img.shields.io/badge/CSS3-701A3D?style=for-the-badge&logo=css3&logoColor=F8F0F3"/>
-<img src="https://img.shields.io/badge/React-701A3D?style=for-the-badge&logo=react&logoColor=F8F0F3"/>
+  <img src="https://img.shields.io/badge/HTML5-451126?style=for-the-badge&logo=html5&logoColor=F8F0F3">
+  <img src="https://img.shields.io/badge/CSS3-451126?style=for-the-badge&logo=css3&logoColor=F8F0F3">
+  <img src="https://img.shields.io/badge/React-451126?style=for-the-badge&logo=react&logoColor=F8F0F3">
+  <img src="https://img.shields.io/badge/Node.js-451126?style=for-the-badge&logo=nodedotjs&logoColor=F8F0F3">
+  <img src="https://img.shields.io/badge/Express.js-451126?style=for-the-badge&logo=express&logoColor=F8F0F3">
+  <img src="https://img.shields.io/badge/MongoDB-451126?style=for-the-badge&logo=mongodb&logoColor=F8F0F3">
 </p>
 
-### Backend & Database
+**AI / ML & Computer Vision**
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-451126?style=for-the-badge&logo=nodedotjs&logoColor=F8F0F3"/>
-<img src="https://img.shields.io/badge/Express.js-451126?style=for-the-badge&logo=express&logoColor=F8F0F3"/>
-<img src="https://img.shields.io/badge/MongoDB-451126?style=for-the-badge&logo=mongodb&logoColor=F8F0F3"/>
+  <img src="https://img.shields.io/badge/TensorFlow-701A3D?style=for-the-badge&logo=tensorflow&logoColor=F8F0F3">
+  <img src="https://img.shields.io/badge/Keras-701A3D?style=for-the-badge&logo=keras&logoColor=F8F0F3">
+  <img src="https://img.shields.io/badge/OpenCV-701A3D?style=for-the-badge&logo=opencv&logoColor=F8F0F3">
 </p>
 
-### Artificial Intelligence & Computer Vision
+**Tools & Hardware**
 
 <p>
-<img src="https://img.shields.io/badge/TensorFlow-701A3D?style=for-the-badge&logo=tensorflow&logoColor=F8F0F3"/>
-<img src="https://img.shields.io/badge/Keras-701A3D?style=for-the-badge&logo=keras&logoColor=F8F0F3"/>
-<img src="https://img.shields.io/badge/OpenCV-701A3D?style=for-the-badge&logo=opencv&logoColor=F8F0F3"/>
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://img.shields.io/badge/GitHub-451126?style=for-the-badge&logo=github&logoColor=F8F0F3"/>
-<img src="https://img.shields.io/badge/VS%20Code-451126?style=for-the-badge&logo=visualstudiocode&logoColor=F8F0F3"/>
-<img src="https://img.shields.io/badge/Jupyter-451126?style=for-the-badge&logo=jupyter&logoColor=F8F0F3"/>
-<img src="https://img.shields.io/badge/Arduino%20IDE-451126?style=for-the-badge&logo=arduino&logoColor=F8F0F3"/>
+  <img src="https://img.shields.io/badge/GitHub-181018?style=for-the-badge&logo=github&logoColor=E5B5C7">
+  <img src="https://img.shields.io/badge/VS%20Code-181018?style=for-the-badge&logo=visualstudiocode&logoColor=E5B5C7">
+  <img src="https://img.shields.io/badge/Jupyter-181018?style=for-the-badge&logo=jupyter&logoColor=E5B5C7">
+  <img src="https://img.shields.io/badge/Arduino%20IDE-181018?style=for-the-badge&logo=arduino&logoColor=E5B5C7">
 </p>
 
 ---
 
-## FEATURED PROJECTS
+## 03 / SELECTED PROJECTS
 
-### 01. AI-Based Smart Waste Segregation System
+### AI-Based Smart Waste Segregation System
+`Python` `OpenCV` `TensorFlow` `CNN` `Arduino UNO`
 
-**Artificial Intelligence | Machine Learning | Computer Vision | IoT**
+An in-progress intelligent waste segregation project combining computer-vision-based classification with hardware automation.
 
-An AI-powered waste segregation system designed to classify waste using computer vision and CNN-based image classification.
+- Developing image-processing and CNN-based waste classification.
+- Integrating Python with Arduino through serial communication.
+- Working with stepper motors, a servo motor, and an IR sensor for automated sorting.
 
-**Technologies:**
-- Python
-- OpenCV
-- TensorFlow
-- Convolutional Neural Networks
-- Arduino UNO
-- Stepper Motor
-- Servo Motor
-- IR Sensor
+**Status:** In development.
 
-**Key Implementation Areas:**
-- Image processing and waste classification.
-- CNN-based classification model.
-- Python and Arduino serial communication.
-- Automated hardware-based waste sorting.
+### CampusCycle — Smart Campus Marketplace
+`MongoDB` `Express.js` `React.js` `Node.js`
 
-**Status:** Currently in development.
+A MERN-stack marketplace designed for a campus environment.
+
+- Secure authentication and product listings.
+- Search functionality and REST API integration.
+- MongoDB-backed application data and responsive interface.
+
+> Project repository/demo links can be added once the public URLs are confirmed.
 
 ---
 
-### 02. CampusCycle — Smart Campus Marketplace
+## 04 / RECOGNITION
 
-**Full-Stack Web Development | MERN Stack**
-
-A campus-focused marketplace developed to facilitate product listings and exchanges within a campus community.
-
-**Technologies:**
-- MongoDB
-- Express.js
-- React.js
-- Node.js
-- REST APIs
-
-**Key Features:**
-- Secure authentication.
-- Product listings.
-- Search functionality.
-- REST API integration.
-- MongoDB database integration.
-- Responsive user interface.
-
----
-
-## ACHIEVEMENTS & RECOGNITION
-
-| Achievement | Recognition |
-|:---|:---|
-| Google Gemini Game Development Challenge | 🥈 2nd Place |
-| INNOFEST'26 Project Showcase Competition | 🥉 3rd Place (Finalist) |
-| Hacktoberfest Hack Day Bengaluru '26 | 🏆 Top 5 |
+| Recognition | Result |
+|:--|:--|
+| Google Gemini Game Development Challenge | **2nd Place** |
+| INNOFEST'26 Project Showcase — Innomatics Research Labs | **3rd Place (Finalist)** |
+| Hacktoberfest Hack Day Bengaluru '26 — MSRIT | **Top 5** |
 | OXY Hack 2026 | Participant |
 
 ---
 
-## EXPERIENCE & ACTIVITIES
+## 05 / EDUCATION & EXPERIENCE
 
-**Computer Vision Workshop — Innomatics Research Labs**
+**The Oxford College of Engineering — VTU**  
+Bachelor of Engineering, Information Science & Engineering  
+Expected 2027 · CGPA: **8.65 / 10**
 
-July 2026
+**Computer Vision Workshop — Innomatics Research Labs** · July 2026
 
-- Hands-on training in Computer Vision.
-- Practical exposure to Python and OpenCV.
-- Explored Convolutional Neural Networks.
-- Worked with image processing applications.
+- Hands-on training in Python, OpenCV, image processing, and CNN fundamentals.
 
-**Project Team Member — AI-Based Smart Waste Segregation**
+**Project Team Member — AI-Based Smart Waste Segregation System**
 
-- Collaborating on AI model development.
-- Working on hardware integration and testing.
-- Implementing software-to-hardware communication.
-
-**Hackathon Participant — OXY Hack 2026**
-
-- Collaborated with team members.
-- Worked on developing innovative software solutions under time constraints.
+- Contributing to model development, hardware integration, testing, and documentation.
 
 ---
 
-## GITHUB CONTRIBUTIONS
+## 06 / GITHUB CONTRIBUTIONS
+
+The contribution animation below is generated from GitHub contribution data by this repository's scheduled workflow. It may take a few minutes to appear after the workflow is enabled.
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshanshariff422&bg_color=10070C&color=E5B5C7&line=C77B9B&point=F8F0F3&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph"/>
-
+  <img src="https://raw.githubusercontent.com/roshanshariff422/roshanshariff422/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%">
 </div>
 
 ---
 
-## CONNECT WITH ME
+## 07 / LET'S CONNECT
 
 <div align="center">
 
 <a href="https://github.com/roshanshariff422">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-451126?style=for-the-badge&logo=github&logoColor=F8F0F3"/>
+  <img src="https://img.shields.io/badge/GitHub-roshanshariff422-451126?style=for-the-badge&logo=github&logoColor=F8F0F3">
 </a>
-
 <a href="https://www.linkedin.com/in/mohammed-roshan-sharieff-031b78292/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Roshan%20Sharieff-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3">
 </a>
 
-</div>
+<br><br>
 
----
+<img src="assets/roshan-footer.gif" width="100%" alt="Animated footer">
 
-<div align="center">
-
-<img src="assets/roshan-footer.svg" width="100%" alt="Create. Innovate. Build."/>
-
-<br/>
-
-**Thanks for visiting my profile!**
-
-*Building today. Innovating for tomorrow.*
+**Thanks for stopping by. Keep learning. Keep building.**
 
 </div>
