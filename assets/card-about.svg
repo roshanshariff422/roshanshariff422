@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 290" role="img" aria-label="About Mohammed Roshan Sharieff">
+  <defs>
+    <linearGradient id="aboutBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#190B12"/>
+      <stop offset="100%" stop-color="#10070C"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="580" height="290" rx="18" fill="url(#aboutBg)" stroke="#451126" stroke-width="1.5"/>
+
+  <!-- Badge -->
+  <rect x="28" y="22" width="136" height="24" rx="12" fill="#451126" stroke="#701A3D" stroke-width="1"/>
+  <text x="96" y="38" text-anchor="middle" font-family="Consolas, 'Fira Code', monospace" font-size="11" font-weight="700" letter-spacing="1.2" fill="#E5B5C7">01 // ABOUT ME</text>
+
+  <!-- Heading & Bio -->
+  <text x="28" y="76" font-family="'Segoe UI', Arial, sans-serif" font-size="21" font-weight="700" fill="#F8F0F3">Mohammed Roshan Sharieff</text>
+  <text x="28" y="103" font-family="'Segoe UI', Arial, sans-serif" font-size="13.2" fill="#E5B5C7" fill-opacity="0.9">
+    Information Science &amp; Engineering student passionate about software
+  </text>
+  <text x="28" y="122" font-family="'Segoe UI', Arial, sans-serif" font-size="13.2" fill="#E5B5C7" fill-opacity="0.9">
+    development, artificial intelligence, and emerging technologies.
+  </text>
+
+  <!-- Focus Rows -->
+  <rect x="28" y="148" width="524" height="26" rx="7" fill="#10070C" fill-opacity="0.72" stroke="#451126" stroke-width="0.9"/>
+  <circle cx="44" cy="161" r="3.5" fill="#E5B5C7"/>
+  <text x="58" y="165.5" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="500" fill="#F8F0F3">Full-Stack Web Development (MERN Stack)</text>
+  <rect x="28" y="180" width="524" height="26" rx="7" fill="#10070C" fill-opacity="0.72" stroke="#451126" stroke-width="0.9"/>
+  <circle cx="44" cy="193" r="3.5" fill="#E5B5C7"/>
+  <text x="58" y="197.5" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="500" fill="#F8F0F3">Artificial Intelligence &amp; Machine Learning</text>
+  <rect x="28" y="212" width="524" height="26" rx="7" fill="#10070C" fill-opacity="0.72" stroke="#451126" stroke-width="0.9"/>
+  <circle cx="44" cy="225" r="3.5" fill="#E5B5C7"/>
+  <text x="58" y="229.5" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="500" fill="#F8F0F3">Computer Vision &amp; Image Processing</text>
+  <rect x="28" y="244" width="524" height="26" rx="7" fill="#10070C" fill-opacity="0.72" stroke="#451126" stroke-width="0.9"/>
+  <circle cx="44" cy="257" r="3.5" fill="#E5B5C7"/>
+  <text x="58" y="261.5" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="500" fill="#F8F0F3">Practical Software &amp; Hardware Integration</text>
+</svg>

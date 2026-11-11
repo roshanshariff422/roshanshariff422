@@ -1,50 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 1200 150">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" role="img" aria-label="Create, Innovate, Build - Mohammed Roshan Sharieff">
+  <defs>
+    <linearGradient id="ftrBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10070C"/>
+      <stop offset="50%" stop-color="#190B12"/>
+      <stop offset="100%" stop-color="#10070C"/>
+    </linearGradient>
+    <linearGradient id="ftrLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#451126" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#E5B5C7"/>
+      <stop offset="100%" stop-color="#451126" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
 
-<defs>
+  <rect width="1200" height="170" rx="22" fill="url(#ftrBg)" stroke="#451126" stroke-width="1.5"/>
 
-<linearGradient id="line">
-  <stop offset="0%" stop-color="#451126"/>
-  <stop offset="50%" stop-color="#E5B5C7"/>
-  <stop offset="100%" stop-color="#451126"/>
-</linearGradient>
+  <path d="M80 34 H1120" stroke="url(#ftrLine)" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.25;1;0.25" dur="3.2s" repeatCount="indefinite"/>
+  </path>
 
-</defs>
+  <text x="600" y="80" text-anchor="middle" font-family="Georgia, serif" font-size="28" font-weight="700" letter-spacing="6" fill="#F8F0F3">
+    CREATE  •  INNOVATE  •  BUILD
+  </text>
 
-<rect width="1200" height="150"
-      rx="20" fill="#10070C"/>
+  <text x="600" y="112" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="4" fill="#C77B9B">
+    MOHAMMED ROSHAN SHARIEFF
+  </text>
 
-<path d="M60 35H1140"
-      stroke="url(#line)"
-      stroke-width="2">
-
-  <animate attributeName="stroke-opacity"
-           values=".2;1;.2"
-           dur="3s"
-           repeatCount="indefinite"/>
-
-</path>
-
-<text x="600" y="85"
-      font-family="Georgia,serif"
-      font-size="30"
-      text-anchor="middle"
-      letter-spacing="5"
-      fill="#F8F0F3">
-
-CREATE • INNOVATE • BUILD
-
-</text>
-
-<text x="600" y="115"
-      font-family="Arial,sans-serif"
-      font-size="12"
-      text-anchor="middle"
-      letter-spacing="4"
-      fill="#C77B9B">
-
-MOHAMMED ROSHAN SHARIEFF
-
-</text>
-
+  <text x="600" y="140" text-anchor="middle" font-family="Consolas, 'Fira Code', monospace" font-size="12" fill="#E5B5C7" fill-opacity="0.78">
+    Building today. Innovating for tomorrow.
+  </text>
 </svg>
