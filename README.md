@@ -1,23 +1,22 @@
+```html
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Mohammed Roshan Sharieff">
+<img src="./assets/roshan-hero.svg" width="100%" alt="Mohammed Roshan Sharieff">
 
 <br>
 
-<h3>
-  FULL-STACK DEVELOPER
-</h3>
+<h3>FULL-STACK DEVELOPER</h3>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C77B9B&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+Computer+Vision;Turning+Ideas+Into+Code" alt="Typing animation">
 </p>
 
 <a href="https://github.com/roshanshariff422">
-  <img src="https://img.shields.io/badge/GitHub-Profile-451126?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/GitHub-Profile-451126?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/mohammed-roshan-sharieff-031b78292/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
@@ -41,31 +40,31 @@ I'm **Mohammed Roshan Sharieff**, an Information Science and Engineering student
 ### Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,python&theme=dark">
+  <img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" alt="Java JavaScript Python">
 </p>
 
 ### Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark">
+  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="HTML CSS React">
 </p>
 
 ### Backend & Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js Express MongoDB">
 </p>
 
 ### AI / ML & Computer Vision
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="TensorFlow OpenCV">
 </p>
 
 ### Development Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=github,vscode,arduino&theme=dark">
+  <img src="https://skillicons.dev/icons?i=github,vscode,arduino&theme=dark" alt="GitHub VS Code Arduino">
 </p>
 
 ---
@@ -125,11 +124,16 @@ Bachelor of Engineering in Information Science & Engineering.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=roshanshariff422&bg_color=10070C&color=E5B5C7&line=C77B9B&point=F8F0F3&hide_border=true&area=true" alt="Contribution activity">
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=roshanshariff422&bg_color=10070C&color=E5B5C7&line=C77B9B&point=F8F0F3&hide_border=true&area=true"
+  alt="GitHub Contribution Activity Graph">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=roshanshariff422&show_icons=true&hide_border=true&bg_color=10070C&title_color=C77B9B&text_color=F8F0F3&icon_color=E5B5C7" alt="GitHub statistics">
+<img
+  src="https://github-readme-stats.vercel.app/api?username=roshanshariff422&show_icons=true&hide_border=true&bg_color=10070C&title_color=C77B9B&text_color=F8F0F3&icon_color=E5B5C7"
+  alt="GitHub Statistics">
 
 </div>
 
@@ -139,7 +143,10 @@ Bachelor of Engineering in Information Science & Engineering.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/roshanshariff422/roshanshariff422/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake">
+<img
+  src="https://raw.githubusercontent.com/roshanshariff422/roshanshariff422/output/github-contribution-grid-snake.svg"
+  width="100%"
+  alt="GitHub Contribution Snake">
 
 </div>
 
@@ -150,15 +157,22 @@ Bachelor of Engineering in Information Science & Engineering.
 <div align="center">
 
 <a href="https://github.com/roshanshariff422">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/mohammed-roshan-sharieff-031b78292/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <br><br>
 
-<img src="assets/footer.svg" width="100%" alt="Animated footer">
+<img src="./assets/roshan-footer.svg" width="100%" alt="Animated footer">
+
+<br>
+
+**Thanks for visiting my profile!**
+
+*Building today. Innovating for tomorrow.*
 
 </div>
+```
