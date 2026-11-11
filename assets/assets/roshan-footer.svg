@@ -1,1 +1,73 @@
+<svg width="1200" height="115"
+     viewBox="0 0 1200 115"
+     fill="none"
+     xmlns="http://www.w3.org/2000/svg">
 
+<defs>
+
+  <linearGradient id="footerLine" x1="0" y1="0" x2="1200" y2="0">
+    <stop stop-color="#451126"/>
+    <stop offset="0.5" stop-color="#C77B9B"/>
+    <stop offset="1" stop-color="#451126"/>
+  </linearGradient>
+
+  <filter id="footerGlow">
+    <feGaussianBlur stdDeviation="4"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+</defs>
+
+<rect x="0" y="10" width="1200" height="95"
+      rx="15" fill="#10070C"/>
+
+<path d="M70 28H1130"
+      stroke="url(#footerLine)"
+      stroke-width="1.5"
+      stroke-opacity="0.8"
+      filter="url(#footerGlow)"/>
+
+<text x="600" y="62"
+      text-anchor="middle"
+      font-family="Georgia, serif"
+      font-size="23"
+      letter-spacing="5"
+      fill="#F8F0F3">
+
+  CREATE • INNOVATE • BUILD
+
+</text>
+
+<text x="600" y="86"
+      text-anchor="middle"
+      font-family="Arial, sans-serif"
+      font-size="10"
+      letter-spacing="3"
+      fill="#C77B9B">
+
+  MOHAMMED ROSHAN SHARIEFF
+
+</text>
+
+<circle cx="70" cy="28" r="3" fill="#E5B5C7">
+  <animate attributeName="opacity"
+           values="0.3;1;0.3"
+           dur="2s"
+           repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1130" cy="28" r="3" fill="#E5B5C7">
+  <animate attributeName="opacity"
+           values="1;0.3;1"
+           dur="2s"
+           repeatCount="indefinite"/>
+</circle>
+
+<path d="M70 90H1130"
+      stroke="#701A3D"
+      stroke-opacity="0.5"/>
+
+</svg>
