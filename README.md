@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**roshanshariff422/roshanshariff422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mohammed Roshan Sharieff
 
-Here are some ideas to get you started:
+### Full-Stack Developer | AI/ML Enthusiast | Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building intelligent solutions through code, creativity, and technology.
+
+<br>
+
+<a href="https://github.com/roshanshariff422">
+  <img src="https://img.shields.io/badge/GitHub-roshanshariff422-181717?style=for-the-badge&logo=github">
+</a>
+<a href="https://www.linkedin.com/in/mohammed-roshan-sharieff-031b78292/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+</div>
