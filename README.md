@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="./assets/roshan-hero.svg" width="100%" alt="Mohammed Roshan Sharieff">
@@ -12,11 +11,11 @@
 </p>
 
 <a href="https://github.com/roshanshariff422">
-  <img src="https://img.shields.io/badge/GitHub-Profile-451126?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Profile-451126?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/mohammed-roshan-sharieff-031b78292/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
@@ -40,31 +39,31 @@ I'm **Mohammed Roshan Sharieff**, an Information Science and Engineering student
 ### Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" alt="Java JavaScript Python">
+  <img src="https://skillicons.dev/icons?i=java,js,python&theme=dark">
 </p>
 
 ### Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="HTML CSS React">
+  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark">
 </p>
 
 ### Backend & Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js Express MongoDB">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark">
 </p>
 
 ### AI / ML & Computer Vision
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="TensorFlow OpenCV">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark">
 </p>
 
 ### Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,arduino&theme=dark" alt="GitHub VS Code Arduino">
+  <img src="https://skillicons.dev/icons?i=github,vscode,arduino&theme=dark">
 </p>
 
 ---
@@ -157,11 +156,11 @@ Bachelor of Engineering in Information Science & Engineering.
 <div align="center">
 
 <a href="https://github.com/roshanshariff422">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/mohammed-roshan-sharieff-031b78292/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <br><br>
@@ -175,4 +174,3 @@ Bachelor of Engineering in Information Science & Engineering.
 *Building today. Innovating for tomorrow.*
 
 </div>
-```
