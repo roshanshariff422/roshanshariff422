@@ -1,212 +1,126 @@
-<svg width="1200" height="390" viewBox="0 0 1200 390"
-     fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1200 360">
 
 <defs>
 
-  <linearGradient id="heroBg" x1="0" y1="0" x2="1200" y2="390"
-                  gradientUnits="userSpaceOnUse">
-    <stop stop-color="#10070C"/>
-    <stop offset="0.5" stop-color="#190B12"/>
-    <stop offset="1" stop-color="#451126"/>
-  </linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#10070C"/>
+  <stop offset="50%" stop-color="#451126"/>
+  <stop offset="100%" stop-color="#190B12"/>
+</linearGradient>
 
-  <linearGradient id="heroGlow" x1="0" y1="0" x2="1200" y2="0"
-                  gradientUnits="userSpaceOnUse">
-    <stop stop-color="#701A3D"/>
-    <stop offset="0.5" stop-color="#C77B9B"/>
-    <stop offset="1" stop-color="#701A3D"/>
-  </linearGradient>
+<linearGradient id="glow">
+  <stop offset="0%" stop-color="#701A3D"/>
+  <stop offset="50%" stop-color="#E5B5C7"/>
+  <stop offset="100%" stop-color="#701A3D"/>
+</linearGradient>
 
-  <linearGradient id="movingLight" x1="0" y1="0" x2="1" y2="0">
-    <stop stop-color="#701A3D" stop-opacity="0"/>
-    <stop offset="0.5" stop-color="#E5B5C7" stop-opacity="0.5"/>
-    <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
-  </linearGradient>
+<pattern id="grid" width="40" height="40"
+         patternUnits="userSpaceOnUse">
+  <path d="M40 0H0V40"
+        stroke="#C77B9B"
+        stroke-opacity=".13"
+        fill="none"/>
+</pattern>
 
-  <pattern id="technicalGrid" width="40" height="40"
-           patternUnits="userSpaceOnUse">
-    <path d="M40 0H0V40"
-          stroke="#C77B9B"
-          stroke-opacity="0.12"
-          stroke-width="0.7"/>
-  </pattern>
-
-  <filter id="glow">
-    <feGaussianBlur stdDeviation="5" result="blur"/>
-    <feMerge>
-      <feMergeNode in="blur"/>
-      <feMergeNode in="SourceGraphic"/>
-    </feMerge>
-  </filter>
-
-  <filter id="softGlow">
-    <feGaussianBlur stdDeviation="14"/>
-  </filter>
+<filter id="blur">
+  <feGaussianBlur stdDeviation="12"/>
+</filter>
 
 </defs>
 
-<!-- Background -->
+<rect width="1200" height="360" rx="20" fill="url(#bg)"/>
 
-<rect width="1200" height="390" rx="22" fill="url(#heroBg)"/>
+<rect width="1200" height="360" rx="20" fill="url(#grid)"/>
 
-<!-- Technical grid -->
-
-<rect width="1200" height="390" rx="22"
-      fill="url(#technicalGrid)"/>
-
-<!-- Background glow -->
-
-<ellipse cx="1000" cy="190" rx="250" ry="180"
-         fill="#701A3D" opacity="0.18"
-         filter="url(#softGlow)"/>
-
-<!-- Moving light -->
-
-<rect x="-300" y="0" width="300" height="390"
-      fill="url(#movingLight)" opacity="0.4">
-
-  <animate attributeName="x"
-           from="-300"
-           to="1200"
-           dur="8s"
-           repeatCount="indefinite"/>
-
-</rect>
-
-<!-- Orbital geometry -->
-
-<circle cx="1000" cy="190" r="105"
-        stroke="#C77B9B"
-        stroke-opacity="0.25"
-        stroke-width="1"
-        stroke-dasharray="5 9"/>
-
-<circle cx="1000" cy="190" r="145"
-        stroke="#E5B5C7"
-        stroke-opacity="0.15"
-        stroke-width="1"/>
-
-<circle cx="1000" cy="190" r="185"
-        stroke="#C77B9B"
-        stroke-opacity="0.12"
-        stroke-width="1"
-        stroke-dasharray="3 12"/>
-
-<!-- Orbital animation -->
-
-<circle cx="1000" cy="45" r="5"
-        fill="#E5B5C7"
-        filter="url(#glow)">
+<circle cx="980" cy="180" r="120"
+        stroke="#C77B9B" stroke-opacity=".3"
+        fill="none">
 
   <animateTransform
     attributeName="transform"
     type="rotate"
-    from="0 1000 190"
-    to="360 1000 190"
-    dur="18s"
+    from="0 980 180"
+    to="360 980 180"
+    dur="20s"
     repeatCount="indefinite"/>
 
 </circle>
 
-<!-- Decorative technical path -->
+<circle cx="980" cy="180" r="170"
+        stroke="#E5B5C7"
+        stroke-opacity=".2"
+        stroke-dasharray="5 12"
+        fill="none">
 
-<path d="M0 300 C180 240 280 370 450 300
-         S760 210 930 280 S1100 350 1200 290"
-      stroke="url(#heroGlow)"
-      stroke-width="2"
-      stroke-opacity="0.55"
-      fill="none">
+  <animateTransform
+    attributeName="transform"
+    type="rotate"
+    from="360 980 180"
+    to="0 980 180"
+    dur="30s"
+    repeatCount="indefinite"/>
 
-  <animate attributeName="stroke-dashoffset"
-           from="0"
-           to="300"
-           dur="12s"
+</circle>
+
+<circle cx="980" cy="60" r="6"
+        fill="#E5B5C7">
+
+  <animate attributeName="opacity"
+           values=".2;1;.2"
+           dur="2s"
            repeatCount="indefinite"/>
 
-</path>
-
-<!-- Name -->
+</circle>
 
 <text x="75" y="125"
-      fill="#F8F0F3"
-      font-family="Georgia, serif"
-      font-size="49"
+      font-family="Arial,sans-serif"
+      font-size="55"
       font-weight="bold"
-      letter-spacing="1">
+      fill="#F8F0F3">
 
-  MOHAMMED ROSHAN
+MOHAMMED ROSHAN
 
 </text>
 
-<text x="75" y="185"
-      fill="#E5B5C7"
-      font-family="Georgia, serif"
-      font-size="49"
+<text x="75" y="190"
+      font-family="Arial,sans-serif"
+      font-size="55"
       font-weight="bold"
-      letter-spacing="1">
+      fill="#E5B5C7">
 
-  SHARIEFF
-
-</text>
-
-<!-- Glowing underline -->
-
-<rect x="77" y="210" width="350" height="3"
-      rx="2"
-      fill="url(#heroGlow)"
-      filter="url(#glow)"/>
-
-<!-- Role -->
-
-<text x="78" y="255"
-      fill="#E5B5C7"
-      font-family="Arial, sans-serif"
-      font-size="18"
-      letter-spacing="3">
-
-  FULL-STACK DEVELOPER
+SHARIEFF
 
 </text>
 
-<text x="78" y="285"
-      fill="#C77B9B"
-      font-family="Arial, sans-serif"
+<rect x="78" y="215" width="350" height="3"
+      rx="2" fill="url(#glow)">
+
+  <animate attributeName="width"
+           values="100;350;100"
+           dur="4s"
+           repeatCount="indefinite"/>
+
+</rect>
+
+<text x="78" y="265"
+      font-family="Arial,sans-serif"
+      font-size="21"
+      letter-spacing="4"
+      fill="#F8F0F3">
+
+FULL-STACK DEVELOPER
+
+</text>
+
+<text x="78" y="305"
+      font-family="Arial,sans-serif"
       font-size="14"
-      letter-spacing="2">
+      letter-spacing="3"
+      fill="#C77B9B">
 
-  AI / ML  •  COMPUTER VISION  •  SOFTWARE DEVELOPMENT
-
-</text>
-
-<!-- Footer label -->
-
-<text x="78" y="345"
-      fill="#F8F0F3"
-      fill-opacity="0.55"
-      font-family="Arial, sans-serif"
-      font-size="11"
-      letter-spacing="4">
-
-  BUILDING IDEAS INTO REALITY
+AI / ML • COMPUTER VISION • SOFTWARE
 
 </text>
-
-<!-- Corner decoration -->
-
-<path d="M1100 35H1150V85"
-      stroke="#C77B9B"
-      stroke-opacity="0.6"
-      stroke-width="1.5"/>
-
-<path d="M50 305V355H100"
-      stroke="#C77B9B"
-      stroke-opacity="0.6"
-      stroke-width="1.5"/>
-
-<!-- Decorative nodes -->
-
-<circle cx="1100" cy="310" r="3" fill="#E5B5C7"/>
-<circle cx="1140" cy="330" r="3" fill="#C77B9B"/>
-<circle cx="1080" cy="345" r="2" fill="#E5B5C7"/>
 
 </svg>
