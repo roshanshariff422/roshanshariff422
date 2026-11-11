@@ -1,157 +1,164 @@
 <div align="center">
 
-<img src="assets/roshan-hero.gif" width="100%" alt="Animated banner — Mohammed Roshan Sharieff">
+<img src="assets/hero.svg" width="100%" alt="Mohammed Roshan Sharieff">
 
 <br>
 
-<a href="https://www.linkedin.com/in/mohammed-roshan-sharieff-031b78292/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn">
-</a>
-<a href="https://github.com/roshanshariff422">
-  <img src="https://img.shields.io/badge/GITHUB-Explore%20my%20work-451126?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub">
-</a>
+<h3>
+  FULL-STACK DEVELOPER
+</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Full--Stack-Development-701A3D?style=flat-square">
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Interest-C77B9B?style=flat-square">
-  <img src="https://img.shields.io/badge/Computer%20Vision-Focus-451126?style=flat-square">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C77B9B&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+Computer+Vision;Turning+Ideas+Into+Code" alt="Typing animation">
 </p>
+
+<a href="https://github.com/roshanshariff422">
+  <img src="https://img.shields.io/badge/GitHub-Profile-451126?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/mohammed-roshan-sharieff-031b78292/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&logo=linkedin">
+</a>
 
 </div>
 
 ---
 
-## 01 / ABOUT
+<h2 align="center">✦ ABOUT ME ✦</h2>
 
-I'm **Mohammed Roshan Sharieff**, an Information Science & Engineering student at The Oxford College of Engineering.
+I'm **Mohammed Roshan Sharieff**, an Information Science and Engineering student passionate about software development, artificial intelligence and emerging technologies.
 
-I enjoy building software, exploring artificial intelligence, and connecting software with real-world applications. My current interests include full-stack web development, computer vision, machine learning, and embedded hardware integration.
-
-- 🎓 B.E. in Information Science & Engineering — expected 2027
-- 🧠 Exploring AI, machine learning, and computer vision
-- 💻 Building web applications and practical software projects
-- 🤝 Interested in collaboration, learning, and problem-solving
+- 🎓 B.E. Information Science & Engineering
+- 💻 Full-Stack Web Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁️ Computer Vision
+- 🔬 Exploring practical software and hardware integration
 
 ---
 
-## 02 / TECHNOLOGY
+<h2 align="center">✦ TECH STACK ✦</h2>
 
-**Languages**
+### Programming Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Java-181018?style=for-the-badge&logo=openjdk&logoColor=E5B5C7">
-  <img src="https://img.shields.io/badge/JavaScript-181018?style=for-the-badge&logo=javascript&logoColor=E5B5C7">
-  <img src="https://img.shields.io/badge/Python-181018?style=for-the-badge&logo=python&logoColor=E5B5C7">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,python&theme=dark">
 </p>
 
-**Frontend & Backend**
+### Frontend Development
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-451126?style=for-the-badge&logo=html5&logoColor=F8F0F3">
-  <img src="https://img.shields.io/badge/CSS3-451126?style=for-the-badge&logo=css3&logoColor=F8F0F3">
-  <img src="https://img.shields.io/badge/React-451126?style=for-the-badge&logo=react&logoColor=F8F0F3">
-  <img src="https://img.shields.io/badge/Node.js-451126?style=for-the-badge&logo=nodedotjs&logoColor=F8F0F3">
-  <img src="https://img.shields.io/badge/Express.js-451126?style=for-the-badge&logo=express&logoColor=F8F0F3">
-  <img src="https://img.shields.io/badge/MongoDB-451126?style=for-the-badge&logo=mongodb&logoColor=F8F0F3">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark">
 </p>
 
-**AI / ML & Computer Vision**
+### Backend & Database
 
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-701A3D?style=for-the-badge&logo=tensorflow&logoColor=F8F0F3">
-  <img src="https://img.shields.io/badge/Keras-701A3D?style=for-the-badge&logo=keras&logoColor=F8F0F3">
-  <img src="https://img.shields.io/badge/OpenCV-701A3D?style=for-the-badge&logo=opencv&logoColor=F8F0F3">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark">
 </p>
 
-**Tools & Hardware**
+### AI / ML & Computer Vision
 
-<p>
-  <img src="https://img.shields.io/badge/GitHub-181018?style=for-the-badge&logo=github&logoColor=E5B5C7">
-  <img src="https://img.shields.io/badge/VS%20Code-181018?style=for-the-badge&logo=visualstudiocode&logoColor=E5B5C7">
-  <img src="https://img.shields.io/badge/Jupyter-181018?style=for-the-badge&logo=jupyter&logoColor=E5B5C7">
-  <img src="https://img.shields.io/badge/Arduino%20IDE-181018?style=for-the-badge&logo=arduino&logoColor=E5B5C7">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark">
+</p>
+
+### Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=github,vscode,arduino&theme=dark">
 </p>
 
 ---
 
-## 03 / SELECTED PROJECTS
+<h2 align="center">✦ FEATURED PROJECTS ✦</h2>
 
-### AI-Based Smart Waste Segregation System
-`Python` `OpenCV` `TensorFlow` `CNN` `Arduino UNO`
+### 01. AI-Based Smart Waste Segregation System
 
-An in-progress intelligent waste segregation project combining computer-vision-based classification with hardware automation.
+`Python` `OpenCV` `TensorFlow` `CNN` `Arduino`
 
-- Developing image-processing and CNN-based waste classification.
-- Integrating Python with Arduino through serial communication.
-- Working with stepper motors, a servo motor, and an IR sensor for automated sorting.
+An intelligent waste segregation project combining computer vision and automated hardware.
+
+- CNN-based waste classification.
+- Image processing using OpenCV.
+- Python-Arduino serial communication.
+- Automated sorting using motors and sensors.
 
 **Status:** In development.
 
-### CampusCycle — Smart Campus Marketplace
+### 02. CampusCycle — Smart Campus Marketplace
+
 `MongoDB` `Express.js` `React.js` `Node.js`
 
-A MERN-stack marketplace designed for a campus environment.
+A MERN-stack marketplace designed for campus communities.
 
-- Secure authentication and product listings.
-- Search functionality and REST API integration.
-- MongoDB-backed application data and responsive interface.
-
-> Project repository/demo links can be added once the public URLs are confirmed.
+- Secure authentication.
+- Product listings.
+- Search functionality.
+- REST API integration.
+- MongoDB database integration.
 
 ---
 
-## 04 / RECOGNITION
+<h2 align="center">✦ ACHIEVEMENTS ✦</h2>
 
-| Recognition | Result |
-|:--|:--|
-| Google Gemini Game Development Challenge | **2nd Place** |
-| INNOFEST'26 Project Showcase — Innomatics Research Labs | **3rd Place (Finalist)** |
-| Hacktoberfest Hack Day Bengaluru '26 — MSRIT | **Top 5** |
+| Competition | Achievement |
+|---|---|
+| Google Gemini Game Development Challenge | 🥈 2nd Place |
+| INNOFEST'26 Project Showcase | 🥉 3rd Place (Finalist) |
+| Hacktoberfest Hack Day Bengaluru '26 | 🏆 Top 5 |
 | OXY Hack 2026 | Participant |
 
 ---
 
-## 05 / EDUCATION & EXPERIENCE
+<h2 align="center">✦ EDUCATION ✦</h2>
 
-**The Oxford College of Engineering — VTU**  
-Bachelor of Engineering, Information Science & Engineering  
-Expected 2027 · CGPA: **8.65 / 10**
+**The Oxford College of Engineering — VTU**
 
-**Computer Vision Workshop — Innomatics Research Labs** · July 2026
+Bachelor of Engineering in Information Science & Engineering.
 
-- Hands-on training in Python, OpenCV, image processing, and CNN fundamentals.
-
-**Project Team Member — AI-Based Smart Waste Segregation System**
-
-- Contributing to model development, hardware integration, testing, and documentation.
+- Expected Graduation: 2027
+- CGPA: 8.65 / 10
 
 ---
 
-## 06 / GITHUB CONTRIBUTIONS
-
-The contribution animation below is generated from GitHub contribution data by this repository's scheduled workflow. It may take a few minutes to appear after the workflow is enabled.
+<h2 align="center">✦ GITHUB ACTIVITY ✦</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/roshanshariff422/roshanshariff422/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=roshanshariff422&bg_color=10070C&color=E5B5C7&line=C77B9B&point=F8F0F3&hide_border=true&area=true" alt="Contribution activity">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=roshanshariff422&show_icons=true&hide_border=true&bg_color=10070C&title_color=C77B9B&text_color=F8F0F3&icon_color=E5B5C7" alt="GitHub statistics">
+
 </div>
 
 ---
 
-## 07 / LET'S CONNECT
+<h2 align="center">✦ CONTRIBUTION SNAKE ✦</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/roshanshariff422/roshanshariff422/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake">
+
+</div>
+
+---
+
+<h2 align="center">✦ CONNECT WITH ME ✦</h2>
 
 <div align="center">
 
 <a href="https://github.com/roshanshariff422">
-  <img src="https://img.shields.io/badge/GitHub-roshanshariff422-451126?style=for-the-badge&logo=github&logoColor=F8F0F3">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
 <a href="https://www.linkedin.com/in/mohammed-roshan-sharieff-031b78292/">
-  <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Roshan%20Sharieff-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <br><br>
 
-<img src="assets/roshan-footer.gif" width="100%" alt="Animated footer">
-
-**Thanks for stopping by. Keep learning. Keep building.**
+<img src="assets/footer.svg" width="100%" alt="Animated footer">
 
 </div>
